@@ -10,12 +10,6 @@ A simple command-line engineering toolkit built with Python to perform common en
 * 🖥️ Simple menu-driven interface
 * ✅ Easy to use
 
-## Technologies
-
-* Python 3
-* Visual Studio Code
-* Git & GitHub
-
 ## Getting Started
 
 ```bash
